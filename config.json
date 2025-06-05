@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "7927a3bc-0ea5-4511-b516-7f88a09849a5",
+            "id": "702ee1ae-b8f4-4afe-8ada-94e084bc63de",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/telegram@dester46/"
+          "path": "/@dester46/"
         }
       }
     }
