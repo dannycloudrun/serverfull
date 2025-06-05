@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "702ee1ae-b8f4-4afe-8ada-94e084bc63de",
+            "id": "b35dc075-4f18-44b5-8808-1069278fb5d3",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/@dester46/"
+          "path": "/dester/"
         }
       }
     }
