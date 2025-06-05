@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "b35dc075-4f18-44b5-8808-1069278fb5d3",
+            "id": "a07233a4-63e7-41e5-838b-b1668049f891",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/gato1/"
+          "path": "/culorico/"
         }
       }
     }
